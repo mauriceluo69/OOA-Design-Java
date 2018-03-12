@@ -17,5 +17,3 @@ This repository is used to store the homework of Java (in 5th term) in BUPT.
 + Object group
 + Graphic user interface (GUI)
 + Design patterns
-"# OOA-Design-Java" 
-"# OOA-Design-Java" 
